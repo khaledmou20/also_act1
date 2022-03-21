@@ -7,4 +7,4 @@
       console.log(res.body.filter((memes) => memes.name.startsWith("M")))
       });
 
-3 -  la ligne Numéro 6 du Listing 2 signifier que la desactivation de cache dans le serveur origin 
+3 -  la ligne Numéro 6 du Listing 2 signifier que :  la desactivation de cache dans le serveur origine 
