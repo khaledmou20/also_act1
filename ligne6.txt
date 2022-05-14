@@ -1,0 +1,1 @@
+la ligne numéro 6 indique que les données ne sont pas cachés aux clients. 
